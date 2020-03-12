@@ -1,0 +1,28 @@
+header {
+  background-color: black;
+  height: 100px;
+  padding: 0px 25px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .logo {
+    height: 100px;
+  }
+
+  .cart {
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+  }
+  .bell {
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+  }
+  h2 {
+    color: red;
+    font-size: 50px;
+  }
+}
